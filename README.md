@@ -1,2 +1,2 @@
 # fileDownload
-- downloada file from internet.
+- download files from internet.
