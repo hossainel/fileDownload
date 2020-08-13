@@ -19,6 +19,6 @@ def download(url):#{
         print('Download Successful. Size: ',os.path.getsize(g+'/'+r+'/'+r2+l))
     #}
     else:#{
-        print('Download Successful. Size: ',os.path.getsize(g+'/'+r+'/'+r2+l))
+        print('Download Failed.')
     #}
 #}
